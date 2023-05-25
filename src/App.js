@@ -90,7 +90,7 @@ function App() {
         {address && (
           <>
             <article
-              className="bg-white rounded-lg shadow p-8 mx-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4 max-w-6xl xl:mx-auto text-center md:text-left lg:-mb-16 relative"
+              className="bg-white rounded-lg shadow p-8 mx-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4 max-w-6xl xl:mx-auto text-center md:text-left lg:-mb-20 md:-mb-20 relative"
               style={{ zIndex: 10000 }}
             >
               <div className="lg:border-r lg:border-slate-400">
